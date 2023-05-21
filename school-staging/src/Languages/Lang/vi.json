@@ -1,0 +1,37 @@
+{
+  "main": {
+    "Login": "Đăng nhập",
+    "Username": "Tên đăng nhập",
+    "Password": "Mật khẩu",
+    "Forget password?": "Quên mật khẩu?",
+    "register": "đăng ký",
+    "Logout": "Đăng xuất",
+    "UpdateInformation": "Cập nhật thông tin"
+  },
+  "home": {
+    "Checkin": "Điểm danh",
+    "Payment": "Thanh toán điện tử",
+    "Tuition": "Thanh toán học phí",
+    "InOut": "Xác thực ra/vào",
+    "InOut2Line": "Xác thực\nra/vào",
+    "News": "Tin Tức",
+    "InternalAccount2Line": "Tài khoản\nnội bộ",
+    "Internal Account": "Tài khoản nội bộ",
+    "Home": "Trang chủ",
+    "Account": "Tài khoản",
+    "AccountInformation": "Thông tin tài khoản",
+    "TeacherList": "Danh sách giảng viên",
+    "TopicList": "Danh sách đề tài",
+    "Conversation": "Hộp thư"
+  },
+  "business": {
+    "teacher_code": "Mã giảng viên",
+    "phone_number": "Số điện thoại",
+    "Email": "E-mail",
+    "date_of_birth": "Ngày sinh",
+    "MainMajor": "Môn học giảng dạy"
+  },
+  "checkin": {
+    "History": "Xem lịch sử"
+  }
+}

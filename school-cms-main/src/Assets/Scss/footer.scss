@@ -1,0 +1,37 @@
+#footer {
+  display: flex;
+  background-color: cyan;
+  color: black;
+	padding-left: 20px;
+	padding-right: 20px;
+
+
+}
+
+#social_media {
+	justify-content: center;
+	&::before {
+		display: none;
+	}
+	&::after {
+		display: none;
+	}
+}
+
+@media (max-width: 800px) {
+	#social_media {
+		&::before {
+			display: block;
+			width: 30%;
+			height: 1px;
+			background-color: black;
+		}
+		&::after {
+			display: block;
+			width: 30%;
+			height: 1px;
+			background-color: black;
+		}
+	}
+
+}
